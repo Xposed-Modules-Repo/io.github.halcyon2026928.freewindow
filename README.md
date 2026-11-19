@@ -1,6 +1,7 @@
 # 灵动坞OS
 
 ColorOS/realmeUI自由小窗强化模块
+源码：https://github.com/Halcyon2026928/NewFreewindow
 
 ## 功能
 

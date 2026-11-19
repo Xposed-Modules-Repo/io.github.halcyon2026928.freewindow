@@ -33,7 +33,7 @@ ColorOS/realmeUI自由小窗强化模块
 捐赠完全自愿，**所有功能永久免费**，不捐也照样能用全部功能。
 
 <p align="center">
-  <img src="docs/donate_qr.png" width="720" alt="微信 / 支付宝 捐赠码 + 支付宝领红包">
+  <img src="donate_qr.png" width="720" alt="微信 / 支付宝 捐赠码 + 支付宝领红包">
 </p>
 
 <p align="center">左边微信、中间支付宝扫一扫可以请作者喝咖啡；右边这张支付宝扫一下还能领红包，天天有优惠——你领了优惠，作者也能拿到一点平台补贴，同样是支持这个项目的方式。</p>

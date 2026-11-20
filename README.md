@@ -48,6 +48,5 @@ ColorOS/realmeUI自由小窗强化模块
 
 本项目仅供学习与研究用途，请勿用于违反设备使用协议或当地法律法规的场景。
 
-## 鸣谢
-
-FlymeFreeform上游作者@Hoerir，贴边保活/应用静音均为该作者模块的方法。
+## 致谢
+- [Hoerire/Free](https://github.com/Hoerire/Free)：贴边挂机、单应用静音的实现思路参考，作者 Hoerire
